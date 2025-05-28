@@ -13,7 +13,7 @@ More information about AIStor MCP server can be found in our blog posts:
 ## Updates
 
 - **2025-05-28**
-  - Added support for MCP version **2025-03-28**
+  - Added support for MCP version [2025-03-26](https://modelcontextprotocol.io/specification/2025-03-26)
   - Added support for **StreamableHTTP** protocol
   - Added the **text_to_object** tool
 
